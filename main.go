@@ -14,7 +14,7 @@ var (
 	maxResults = flag.Int64("max-results", 5, "Max YouTube results")
 )
 
-const developerKey = "AIzaSyCkJYmf6sgMzUXF7j9XVyVLjCvMsjBoAU4"
+const developerKey = "API-KEY"
 
 type videoType struct {
 	VideoId string
